@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main ()
+
+{
+  int age;
+  for (age = 0;age <= 10 ;age ++)
+    printf("%d\n", age);
+}
